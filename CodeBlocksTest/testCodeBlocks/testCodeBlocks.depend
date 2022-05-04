@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1651447256 source:c:\users\jkaczmarek\onedrive - apollogic sp. z o.o\pulpit\test\cpp\codeblockstest\testcodeblocks\main.cpp
+	<iostream>
+	<ctime>
+	"functions_.cpp"
+
+1651430206 source:c:\users\jkaczmarek\onedrive - apollogic sp. z o.o\pulpit\test\cpp\codeblockstest\testcodeblocks\calculator.cpp
+	<iostream>
+	<ctime>
+
+1651430296 c:\users\jkaczmarek\onedrive - apollogic sp. z o.o\pulpit\test\cpp\codeblockstest\testcodeblocks\calculator.cpp
+	<iostream>
+	<ctime>
+
+1651446345 c:\users\jkaczmarek\onedrive - apollogic sp. z o.o\pulpit\test\cpp\codeblockstest\testcodeblocks\functions_.cpp
+	<iostream>
+	<ctime>
+
